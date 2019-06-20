@@ -1,0 +1,17 @@
+chess/seq-02-frame-000158.color.png	
+chess/seq-02-frame-000216.color.png	
+chess/seq-02-frame-000227.color.png	
+chess/seq-02-frame-000226.color.png	
+chess/seq-02-frame-000225.color.png	
+chess/seq-02-frame-000228.color.png	
+chess/seq-02-frame-000231.color.png	
+chess/seq-02-frame-000230.color.png	
+chess/seq-02-frame-000232.color.png	
+chess/seq-02-frame-000229.color.png	
+chess/seq-02-frame-000224.color.png	
+chess/seq-02-frame-000223.color.png	
+chess/seq-02-frame-000259.color.png	
+chess/seq-02-frame-000256.color.png	
+chess/seq-02-frame-000233.color.png	 
+chess/seq-02-frame-000236.color.png	
+chess/seq-02-frame-000237.color.png	
