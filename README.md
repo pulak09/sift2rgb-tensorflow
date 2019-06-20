@@ -10,13 +10,13 @@ For any query email to pulak.isi@gmail.com
 
 ## Usage 
 
-It requires .sift and .rgb file-pairs to train and evaluate the network. The user needs to specify .SIFT and .RGB file names as described in file dataset_new_train.txt
+It requires .sift and .rgb file-pairs to train and evaluate the network. The user needs to specify .SIFT and .RGB file names as shown in file dataset_new_train.txt
 
 To train the network:
 
-    python main.py --phase train 
+   -- python main.py --phase train 
 
 To evaluate:
 
-    python main.py --test train 
+   -- python main.py --test train 
 
